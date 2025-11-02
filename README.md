@@ -24,10 +24,10 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/haytam-talbi-996833291" target="blank">
+<a href="https://linkedin.com/in/haytam-talbi-996833291" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="https://portfolio-beta-snowy-62.vercel.app/" target="blank">
+<a href="https://portfolio-beta-snowy-62.vercel.app/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="portfolio" height="30" width="40" />
 </a>
 </p>
