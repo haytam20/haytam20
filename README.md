@@ -18,7 +18,7 @@
 - 📫 Reach me at **talbi20h@gmail.com**  
 
 
-<img align="right" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" height="230" alt="Coding GIF"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHB3aWZpZnZ6cjN5OGE3MnZpY2E3ZWJ3NWRjZ3A3aWJhZ3RqNnVoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="230" alt="Hacker Coding GIF"/>
 
 ---
 
