@@ -12,12 +12,11 @@
   </a> 
 </p>
 
-- 🔭 I'm currently working on **a Gym Management Web Application (Laravel + React)**  
-- 🌱 I'm learning **Microservices, NestJS, and Advanced Backend Design**  
-- 💼 I work on **Freelance projects (Fiverr)** and **develop SaaS platforms**  
+- 🔭 I'm currently working on **a SaaS CRM & Marketing Platform (NestJS + React)**  
+- 💼 I work on **Freelance projects (Fiverr)** 
 - 💬 Ask me about **React, NestJS, Laravel, MongoDB, MySQL, and REST APIs**  
-- 📫 Reach me at **haytamtalbi.dev@gmail.com**  
-- ⚡ Fun fact: **I debug with `console.log()` and I’m proud of it 😄**
+- 📫 Reach me at **talbi20h@gmail.com**  
+
 
 <img align="right" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" height="230" alt="Coding GIF"/>
 
