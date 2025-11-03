@@ -26,6 +26,8 @@
 
 ## 🚀 About Me
 
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="250" alt="Coding GIF"/>
+
 ```typescript
 const haytam = {
     location: "Agadir, Morocco 🇲🇦",
@@ -42,6 +44,8 @@ const haytam = {
     reachMe: "talbi20h@gmail.com"
 };
 ```
+
+<br clear="right"/>
 
 ---
 
