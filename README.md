@@ -119,7 +119,7 @@ A web platform for photovoltaic panels and heat pumps in Suisse romande
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haytam20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haytam20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haytam20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
