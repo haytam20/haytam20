@@ -16,9 +16,9 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=haytam20&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" width="90%"/>
+
+
 
 </div>
 
