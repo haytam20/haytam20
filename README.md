@@ -53,30 +53,32 @@ const haytam = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-### 🎯 SaaS CRM Platform
-Building a comprehensive CRM & Marketing solution with modern tech stack
-- **Backend:** NestJS + TypeScript
-- **Frontend:** React + Tailwind CSS
-- **Database:** MongoDB
-- **Focus:** Scalability & Performance
+### 🌐 GoodFeedback Platform  
+A modern SaaS platform designed to collect, analyze, and manage customer feedback in a structured and actionable way.
 
-</td>
-<td width="50%">
+- **Website:** https://goodfeedback.org  
+- **Purpose:** Help businesses understand customer needs and continuously improve their products and services through real feedback  
+- **Core Idea:** Turn customer opinions into clear insights and measurable improvements  
 
-### ⚡ Energy Solutions Platform
-A web platform for photovoltaic panels and heat pumps in Suisse romande
-- **Team:** Collaborative project with Imane
-- **Features:** Quote comparison, subsidy calculators, provider verification
-- **Impact:** Helping users make informed energy decisions
-- **Region:** Switzerland (Suisse romande)
+**Key Features:**
+- 📝 Easy feedback submission system for users  
+- 📊 Analytics dashboard to visualize customer sentiment and trends  
+- ⭐ Rating and review management system  
+- 🔔 Real-time feedback notifications for business owners  
+- 👥 User-friendly interface optimized for mobile and desktop  
+
+**Value Proposition:**
+GoodFeedback helps companies reduce guesswork by providing direct insights from real users, enabling better product decisions, improved customer satisfaction, and stronger business growth.
+
+**Tech Vision:**
+Built with scalability in mind, allowing future integration of AI-based sentiment analysis, advanced reporting tools, and multi-tenant SaaS support.
 
 </td>
 </tr>
 </table>
 
----
 
 ## 🛠️ Tech Stack
 
