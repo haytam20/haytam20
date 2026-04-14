@@ -66,19 +66,23 @@ A modern SaaS platform designed to collect, analyze, and manage customer feedbac
 - 📝 Easy feedback submission system for users  
 - 📊 Analytics dashboard to visualize customer sentiment and trends  
 - ⭐ Rating and review management system  
+- 🤖 AI-powered assistant that can automatically respond to Google Reviews in a professional and personalized way  
 - 🔔 Real-time feedback notifications for business owners  
 - 👥 User-friendly interface optimized for mobile and desktop  
 
 **Value Proposition:**
-GoodFeedback helps companies reduce guesswork by providing direct insights from real users, enabling better product decisions, improved customer satisfaction, and stronger business growth.
+GoodFeedback helps companies reduce guesswork by providing direct insights from real users, improving customer satisfaction, response time, and business reputation on platforms like Google Maps.
 
 **Tech Vision:**
-Built with scalability in mind, allowing future integration of AI-based sentiment analysis, advanced reporting tools, and multi-tenant SaaS support.
+Built with scalability in mind, with future upgrades including:
+- AI sentiment analysis of reviews  
+- Smart auto-reply customization based on tone (positive/negative/neutral)  
+- Multi-platform integration (Google, Trustpilot, etc.)  
+- Full SaaS multi-tenant system for agencies and businesses  
 
 </td>
 </tr>
 </table>
-
 
 ## 🛠️ Tech Stack
 
